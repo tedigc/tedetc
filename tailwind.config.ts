@@ -9,10 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        darumdrop: ['var(--font-darumdrop-one)'],
+        darumadrop: ["var(--font-darumadrop-one)"],
       },
     },
   },
   plugins: [],
 };
+
 export default config;

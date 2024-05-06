@@ -1,9 +1,9 @@
-import { Darumdrop_One } from 'next/font/google'
+import { Darumadrop_One } from 'next/font/google';
 
-export const darumdropOne = Darumdrop_One({
+export const darumadropOne = Darumadrop_One({
   weight: ['400'],
   style: ['normal'],
   subsets: ['latin'],
   display: 'swap',
-  variable: '--font-darumdrop-one'
-})
+  variable: '--font-darumadrop-one',
+});

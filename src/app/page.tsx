@@ -1,7 +1,7 @@
 export default function Page() {
   return (
-    <main className="w-screen h-screen flex justify-center items-center">
-      <h1 className="flex flex-col gap-8 text-4xl font-darumdrop">
+    <main className="flex h-screen w-screen items-center justify-center">
+      <h1 className="flex flex-col gap-8 font-darumadrop text-9xl font-black leading-[0.64] text-gray-800">
         <div>ted</div>
         <div>etc</div>
       </h1>
